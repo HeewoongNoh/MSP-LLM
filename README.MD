@@ -1,7 +1,16 @@
-# MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning
-The official source code for MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning.
- 
- 
+# MSP-LLM: A Structured LLM Framework for Inorganic Material Synthesis Planning
+
+<p align="center">
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://nips.cc/">
+    <img src="https://img.shields.io/badge/2026%20NeurIPS-blue" alt="NeurIPS 2026" />
+  </a>
+</p>
+
+The official source code for **MSP-LLM: A Structured LLM Framework for Inorganic Material Synthesis Planning**, accepted at **NeurIPS 2026**.
+
 ## Overview
 Material synthesis planning (MSP) remains a fundamental and underexplored bottleneck in AI-driven materials discovery, as it requires not only identifying suitable precursor materials but also designing coherent sequences of synthesis operations to realize a target material. Although several
 AI-based approaches have been proposed to address isolated subtasks of MSP, a unified methodology for solving the entire MSP task has yet to
